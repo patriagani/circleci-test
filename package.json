@@ -1,0 +1,23 @@
+{
+  "name": "circleci-test",
+  "version": "1.0.0",
+  "description": "basic unit testing and continuous integration using jest and circleci-test",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriagani/circleci-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriagani/circleci-test/issues"
+  },
+  "homepage": "https://github.com/patriagani/circleci-test#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
